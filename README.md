@@ -1,0 +1,4 @@
+jQuery-fadeAll
+==============
+
+jQuery fadeAll
